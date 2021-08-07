@@ -1,2 +1,2 @@
 # MachineLearning
- These are my machine learning projects
+ These are my machine learning and deep learning projects
